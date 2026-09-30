@@ -1,0 +1,2 @@
+we dont share the .env file so if we want to share we share this env template where secretes are not there
+GROQ_API_KEY=you_groq_api_key
